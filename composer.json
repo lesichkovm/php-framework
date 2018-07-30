@@ -1,0 +1,20 @@
+{
+    "name": "lesichkovm/php-framework",
+    "description": "PHP framework",
+    "type": "library",
+    "keywords": ["framework", "php", "lesichkov"],    
+    "homepage": "http://github.com/lesichkovm/php-framework",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Milan Lesichkov",
+            "email": "lesichkovm@gmail.com",
+            "homepage": "http://lesichkov.co.uk",
+            "role": "Lead Developer"
+        }
+    ],
+    "autoload": {
+    },
+    "require": {
+    }
+}
